@@ -1,0 +1,20 @@
+body {
+    background-color: #EC8E2B;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+
+}
+.paddingBRUH{
+    align-content: center;
+
+    margin-left: 150px;
+    margin-top: -50px;
+    margin-right: 150px;
+
+    background-color: floralwhite;
+    padding: 50px;
+    height: 1080px;
+    font-size: 15px;
+}
