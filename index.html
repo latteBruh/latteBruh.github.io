@@ -5,10 +5,17 @@
     <meta charset="UTF-8">
     <title>mySite</title>
     <link rel="stylesheet" href="isCSS.css">
+    <script type = "text/javascript" src="isScripts.js"></script>
 </head>
 
 <p class="paddingBRUH">
-    BRUH
+    <button class="paddingBTN" id="btn">BRUH BUTTON</button>
+    <script>
+        let btn = document.getElementById("btn");
+        btn.addEventListener('click', event => {
+            test();
+        });
+    </script>
 </p>
 
 </html>
