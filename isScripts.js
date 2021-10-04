@@ -1,3 +1,6 @@
 function test() {
-    alert("BRUH");
+    while(true)
+    {
+        alert("BRUH");
+    }
 }
