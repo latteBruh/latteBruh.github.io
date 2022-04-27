@@ -1,6 +1,6 @@
 function test() {
     while(true)
     {
-        alert("BRUH");
+        alert("Hey Clara!");
     }
 }
