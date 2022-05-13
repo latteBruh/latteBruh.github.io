@@ -4,18 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <title>mySite</title>
-    <link rel="stylesheet" href="isCSS.css">
-    <script type = "text/javascript" src="isScripts.js"></script>
+    <link href="isCSS.css" rel="stylesheet">
+    <script src="isScripts.js" type="text/javascript"></script>
 </head>
 
-<p class="paddingBRUH">
-    <button class="paddingBTN" id="btn">BRUH BUTTON</button>
+<body>
+
+<p class="paddingBRUH" id="div">
+
+    <button class="paddingBTN" id="btn">Hey!</button>
     <script>
         let btn = document.getElementById("btn");
-        btn.addEventListener('click', event => {
-            test();
+        btn.addEventListener('click', (event) => {
+            sayHey();
         });
     </script>
+
 </p>
+</body>
 
 </html>

@@ -21,15 +21,22 @@ p {
     font-size: 15px;
 }
 
-.paddingBTN{
+.paddingBTN {
     align-content: center;
     border-style: hidden;
 
-    margin-left: 600px;
-    margin-top: 60px;
-    margin-right: 600px;
+    margin: 60px 0px 10px;
 
     background-color: floralwhite;
-    padding: 50px;
+    padding: 10px;
     font-size: 30px;
+}
+
+.linkPadding {
+    border-style: hidden;
+
+    background-color: floralwhite;
+    padding: 12px;
+    font-size: 12px;
+
 }
