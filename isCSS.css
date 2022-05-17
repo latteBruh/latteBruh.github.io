@@ -12,6 +12,7 @@ p {
     resize: none;
     margin-top: 10px;
     margin-right: 150px;
+    font-size: 40px;
 }
 
 .padding {
@@ -33,11 +34,11 @@ p {
 
     background-color: #1000;
     padding: 10px;
-    font-size: 20px;
+    font-size: 50px;
 }
 
 .ratingPadding {
     background-color: #1000;
     padding: 12px;
-    font-size: 30px;
+    font-size: 50px;
 }
